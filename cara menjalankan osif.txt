@@ -1,0 +1,21 @@
+cara menjalankan osif
+
+pkg install python2
+
+python2 osif.py
+
+>token
+
+
+python2 osif.py
+
+>bot
+
+pilih
+
+
+python2 osif.py
+
+>dump_mail
+
+enter
